@@ -2,7 +2,7 @@
 
 🚀 Front-End Developer in the making 
 💻 Currently learning HTML5, CSS3 & Bootstrap 5 
-🎯 Passionate about creating **responsive and modern websites  
+🎯 Passionate about creating responsive and modern websites  
 📚 Always eager to learn new technologies and improve my coding skills.
 
 🛠 Skills & Tools
@@ -13,8 +13,8 @@
 
 📌 My Projects
 Here are some of my public projects:
-- 🌐 Simple Application** – A basic web project using HTML & CSS.
-- 📄 Letter Design** – Stylish HTML letter layout.
+- 🌐 Simple Application – A basic web project using HTML & CSS.
+- 📄 Letter Design – Stylish HTML letter layout.
 - 📱 Responsive Template – Bootstrap-based responsive website.
 
 (More projects on my [Repositories](https://github.com/sufyancoder125?tab=repositories))
